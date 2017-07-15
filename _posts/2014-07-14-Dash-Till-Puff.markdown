@@ -1,12 +1,11 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+date: 2017-07-15
+img: dashtil.png
+alt: Image of a spaceship going through debris.
+project-date: April 2016
+client: Brian Demsky
+category: Android Development
+description: The game involves navigating a spaceship through randomly generated debris. By holding and releasing the touchscreen, the player can follow the navigation line to avoid the debris.
 ---
