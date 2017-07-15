@@ -2,7 +2,7 @@
 layout: default
 modal-id: 4
 date: 2017-07-15
-img: taxi.png
+img: taxi.PNG
 alt: image-alt
 project-date: February 2015
 client: Rainer Doemer
