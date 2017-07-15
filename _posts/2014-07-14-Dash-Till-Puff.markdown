@@ -2,7 +2,7 @@
 layout: default
 modal-id: 5
 date: 2017-07-15
-img: dashtil.png
+img: dashtill.png
 alt: Image of a spaceship going through debris.
 project-date: April 2016
 client: Brian Demsky
