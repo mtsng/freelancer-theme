@@ -1,12 +1,11 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
+date: 2017-07-15
+img: taxi.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
-
+project-date: February 2015
+client: Rainer Doemer
+category: C Development
+description: The taxi management program was completed with team of four. The program allows a client to book a taxi by interacting with a GUI interface. A manager can track the positions of the taxis through a GUI display.
 ---

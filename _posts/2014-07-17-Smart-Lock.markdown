@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2017-07-15
-img: cabin.png
+img: smartLock.png
 alt: The picture features the device.
 project-date: March 2017
 client: Ian Harris
